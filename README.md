@@ -17,15 +17,15 @@ _How to Run_
    python main.py
 
 _Requirements_
-Python 3.x
-Tkinter library
+1. Python 3.x
+2. Tkinter library
 
 _Usage_
-Enter the Target Host (e.g., 127.0.0.1).
-Specify the Start Port and End Port.
-Click "Start Scan" to begin scanning.
-Click "Stop Scan" to stop the scan if needed.
-Use "Clear Fields" to reset the inputs and results.
+1. Enter the Target Host (e.g., 127.0.0.1).
+2. Specify the Start Port and End Port.
+3. Click "Start Scan" to begin scanning.
+4. Click "Stop Scan" to stop the scan if needed.
+5. Use "Clear Fields" to reset the inputs and results.
 
 _Author_
 👨‍💻 Pranjal Usulkar
